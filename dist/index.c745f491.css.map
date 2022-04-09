@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/sass/main.sass"],"sourcesContent":["body\r\n    font-family: 'Roboto', sans-serif\r\n    background-color: #1a1a1a\r\n    color: hsla(0, 0%, 100%, 0.87)\r\n"],"names":[],"version":3,"file":"index.c745f491.css.map","sourceRoot":"/__parcel_source_root/"}

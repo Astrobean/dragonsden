@@ -1,0 +1,26 @@
+{
+  "name": "dragonsden",
+  "version": "1.0.0",
+  "description": "Source code for the dragonbyte website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astrobean/dragonsden.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Jeffrey Izelaar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Astrobean/dragonsden/issues"
+  },
+  "homepage": "https://github.com/Astrobean/dragonsden#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1",
+    "parcel": "^2.4.1"
+  }
+}
